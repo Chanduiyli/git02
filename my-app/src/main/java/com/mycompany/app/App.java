@@ -7,10 +7,9 @@ public class App {
     public static void main(String[] args) {
 
 
-	System.out.println("Hello Delhi");
-	System.out.println("Hello Mumbai");
-	System.out.println("Hello Ap");
-	System.out.println("Hello Gujarat");
+	System.out.println("Hello Lion");
+	System.out.println("Hello Tiger");
+
 
     }
 
