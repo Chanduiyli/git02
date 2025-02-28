@@ -7,10 +7,8 @@ public class App {
     public static void main(String[] args) {
 
 
-	System.out.println("Hello Express bus");
-	System.out.println("Hello Pallavelugu bus");
-	System.out.println("Hello Rajadhani");
-	System.out.println("Hello super luxuary");
+	System.out.println("Hello Team Lead");
+	System.out.println("Hello Employee");
 
 
     }
