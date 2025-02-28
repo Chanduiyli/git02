@@ -7,10 +7,9 @@ public class App {
     public static void main(String[] args) {
 
 
-	System.out.println("Hello Lion");
-	System.out.println("Hello Tiger");
-	System.out.println("Hello Deer");
-	System.out.println("Hello Zebra");
+	System.out.println("Hello Express bus");
+	System.out.println("Hello Pallavelugu bus");
+
 
 
     }
