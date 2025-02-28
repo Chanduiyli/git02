@@ -5,10 +5,7 @@ package com.mycompany.app;
  */
 public class App {
     public static void main(String[] args) {
-	System.out.println("Hello Devops Enginner");
-	System.out.println("Resume uploaded in naukri");
-	System.out.println("Welcome to Devops");
-	System.out.println("Welcome to venkatapur");
-	System.out.println("Welcome to Naukri");
+	System.out.println("Hello HYD");
+	System.out.println("Hello Karimnagar");
     }
 }
